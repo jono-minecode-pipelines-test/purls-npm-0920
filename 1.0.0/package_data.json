@@ -1,0 +1,58 @@
+{
+    "name": "0-hun_ajax",
+    "version": "1.0.0",
+    "description": "\u6d4b\u8bd5ajax\u7684npm\u5305",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+ssh://git@github.com/0-hun/ajax.git"
+    },
+    "keywords": [
+        "ajax"
+    ],
+    "author": {
+        "name": "0-hun"
+    },
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/0-hun/ajax/issues"
+    },
+    "homepage": "https://github.com/0-hun/ajax#readme",
+    "gitHead": "bdf780e1da5a6c71813af5a9b2b3d906e0905451",
+    "_id": "0-hun_ajax@1.0.0",
+    "_nodeVersion": "11.12.0",
+    "_npmVersion": "6.11.3",
+    "dist": {
+        "integrity": "sha512-LewBljUUPKlR62HJAuiF76AKIsBybKGir3iyqP1z//b4iOh7JrEqbxYCizryOv0sYK9q2cYkFg2YdX8YYBwg+A==",
+        "shasum": "a1d48586bd024dd45fa8171886f0ad41f9409bb8",
+        "tarball": "https://registry.npmjs.org/0-hun_ajax/-/0-hun_ajax-1.0.0.tgz",
+        "fileCount": 3,
+        "unpackedSize": 1206,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJegz12CRA9TVsSAnZWagAA2bEP/AwcLz9O5Tr4zDm22Ka6\nwhtoOlwbBOtGcwYewpKkfwgufDdpzHLKEW4KdT1zN24BGxTkQuYXScqujCsi\nm+BKSM2TAxcMJ5i4I6oC6xUFcp5FZHRa+HDUtyzKW3oWDcdxsss2IpIaJ1KO\nDaMv9euoehrxDdSUGxQ6jGrBGKKjjiBPeT8zwiyYBaolMh3VX2nZDfpEUNxL\nhUQZtGRGx84CXwp8NTjopldMRWhvP14D9wU6jd+jiGGPjIZsx8KRm2kcIEp4\nz75VLYF7qWGE2Oadz1XqQOR7l8Z6eEA0qwCQZlo1dutn6rml+5Mr7BTuManJ\n0qiowfwu6PRIcMGh6nVJb2idhVEsYZWtXiPnAtblcQ1Gk0AHLKZNahHqV1QN\nl795TmjuV7GgeVWisaiGi93UsC2OcE4/dMnFPHJBnPp9Gq6CA/OpSTJ+44OO\npL2ibQSEwh3pk7p9iBBvQ8qs/J7tWfP4eTFX8ChvY8mrE/IYOxiqNQPdVv5N\njvEVlD+UkgGxCdfoTnLn7eZAp7ldfemArDZYRHe8lVroDeJ2CdJ6K+pZDLqN\ntKNmi8ui4Mvl6SyX6LkIeiHm8OiFk9sJtauPs0iiI+D//GcVd0vPzQkciIpF\n7wCEgTW0ufj9uEy8Fl+nBTMwpwbIZnLUCcFEF2/pVA88nIVZ8AZGB7bVmNI7\nvaDp\r\n=f2Hq\r\n-----END PGP SIGNATURE-----\r\n",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEQCICbT9up9w8jcvT+TVRedekYpx7LkO65p8qceQZETbTR8AiBhHD3ob36+lnhhP0B8TsYxzCGZDK9k9CPwejRRyVfQfQ=="
+            }
+        ]
+    },
+    "maintainers": [
+        {
+            "name": "0-hun",
+            "email": "2173125410@qq.com"
+        }
+    ],
+    "_npmUser": {
+        "name": "0-hun",
+        "email": "2173125410@qq.com"
+    },
+    "directories": {},
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/0-hun_ajax_1.0.0_1585659254305_0.10782929083879012"
+    },
+    "_hasShrinkwrap": false
+}
