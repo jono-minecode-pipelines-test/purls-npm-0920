@@ -1,0 +1,68 @@
+{
+    "name": "-shaz-tailwindcss-ui-kit",
+    "version": "1.0.0",
+    "description": "Reusable TailwindCSS-based component library for React, Vue, Angular & React Native.",
+    "main": "dist/styles.css",
+    "scripts": {
+        "build:css": "npx postcss src/styles/tailwind.css -o dist/styles.css -w",
+        "storybook": "storybook dev -p 6006",
+        "build-storybook": "storybook build"
+    },
+    "keywords": [
+        "tailwindcss",
+        "component",
+        "ui-library",
+        "css"
+    ],
+    "author": {
+        "name": "Sai Sashreek D"
+    },
+    "license": "MIT",
+    "type": "commonjs",
+    "devDependencies": {
+        "@storybook/addon-essentials": "^8.6.12",
+        "@storybook/addon-interactions": "^8.6.12",
+        "@storybook/blocks": "^8.6.12",
+        "@storybook/html": "^8.6.12",
+        "@storybook/html-vite": "^8.6.12",
+        "@storybook/test": "^8.6.12",
+        "autoprefixer": "^10.4.21",
+        "postcss": "^8.5.3",
+        "postcss-cli": "^11.0.1",
+        "storybook": "^8.6.12",
+        "tailwindcss": "^3.4.17"
+    },
+    "_id": "-shaz-tailwindcss-ui-kit@1.0.0",
+    "gitHead": "154fd9994170b617f3bc0348c9b3fab583b52e66",
+    "_nodeVersion": "22.14.0",
+    "_npmVersion": "11.2.0",
+    "dist": {
+        "integrity": "sha512-GPlJ5GROJ/UMT07V9dJ+TLULA8O4tgph0Bmdk2E+YEneZ0N87Nbk3xw6ZfnP8WVrfrqgOPxXMjJP6JI++wH+Dg==",
+        "shasum": "67f7d703b77daa40f89dece858d242e9429e7c70",
+        "tarball": "https://registry.npmjs.org/-shaz-tailwindcss-ui-kit/-/-shaz-tailwindcss-ui-kit-1.0.0.tgz",
+        "fileCount": 3,
+        "unpackedSize": 45969,
+        "signatures": [
+            {
+                "keyid": "SHA256:DhQ8wR5APBvFHLF/+Tc+AYvPOdTpcIDqOhxsBHRwC7U",
+                "sig": "MEQCIBD95Ak+wm53/eY23/8LLEvevGka2WlQPyYVUtmIHDeJAiAcydy9Tq/XOdu9L6DKOfYNi5DCpcX2JCmKT7zOdlDPNQ=="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "saisashreek",
+        "email": "dsaisashreek@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "saisashreek",
+            "email": "dsaisashreek@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages-npm-production",
+        "tmp": "tmp/-shaz-tailwindcss-ui-kit_1.0.0_1744977065754_0.3154875411451945"
+    },
+    "_hasShrinkwrap": false
+}
